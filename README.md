@@ -36,11 +36,15 @@ project-root/
 │   ├── choropleth_map.py # Page for life expectancy map visualizations
 │
 ```
-
+---
 ## 📊 **Dashboard Overview**
 
 -🏠 **Home Page:** Hero section welcomes users and provides a quick overview.
+
 -🌎 **GDP Analysis Page:** Displays a bar chart of GDP per capita filtered by continent and year.
+
 -👥 **Population Analysis Page:** Bar chart visualizing population filtered by continent and year.
+
 -📈 **Life Expectancy Trends Page:** Line chart for life expectancy trends, filterable by continent and year.
+
 -🗺️ **Choropleth Map Page:** Dynamic map showcasing life expectancy over time with animations by year.
